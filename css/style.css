@@ -1,0 +1,15 @@
+ul {
+    list-style: none ;
+}
+
+.text-light {
+    text-shadow: 0px 0px 10px black;
+}
+
+.bg-perso {
+    background-color: #DB8300;
+}
+
+.text-perso {
+    color:#DB8300;
+}
